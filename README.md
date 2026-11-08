@@ -337,7 +337,7 @@ Feat: 온통청년·고용24 API Client 및 수집 Service 추가
 Fix: 수집 설정 오류 수정
 Refactor: 신청 가능성 판정 로직 개선
 Test: 정책 엔진 통합 테스트 추가
-Docs: README 프로젝트 소개 및 협업 규칙 추가 
+Docs: README 프로젝트 소개 및 협업 규칙 추가
 ```
 
 ### Pull Request Convention
